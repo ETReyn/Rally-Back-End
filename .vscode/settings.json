@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./DAO",
+        "./Model",
+        "./Infrastructure"
+    ]
+}
