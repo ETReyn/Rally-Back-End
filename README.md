@@ -16,4 +16,4 @@ This will run the server on localhost port 8000<br>
 
 # Updating Data
 
-There is not an endpoint to update the data to the newest sprint. To update the data, the `HistoricalRllyData.py` file needs to be run.
+There is not an endpoint to update the data to the newest sprint. To update the data, the `HistoricalRallyData.py` file needs to be run.
