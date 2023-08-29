@@ -13,3 +13,7 @@ There is a Database Seed folder to seed the database with a few years of iterati
 Use the command line to navigate to the Python folder and enter<br>
 `uvicorn main:app --reload` <br>
 This will run the server on localhost port 8000<br>
+
+# Updating Data
+
+There is not an endpoint to update the data to the newest sprint. To update the data, the `HistoricalRllyData.py` file needs to be run.
